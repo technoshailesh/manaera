@@ -1,0 +1,155 @@
+.project{
+
+     display: flex;
+     box-sizing: border-box;
+     height: 453px;
+     width: 680px;
+     left: 248px;
+     top:265px;
+     border-radius: 16.336633682250977px;
+     
+position:absolute;
+
+top: 25.75%;
+bottom: 9.14%; 
+
+background: linear-gradient(269.74deg, rgba(255, 255, 255, 0.21) -254.09%, rgba(255, 255, 255, 0) 99.84%);
+border: 1px solid #FFFFFF;
+overflow: hidden;
+overflow-y: scroll;
+
+
+}
+::-webkit-scrollbar {
+    
+ 
+width: 10px;
+
+
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #F9D423 0%, #E65C00 100%);
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+   
+    background: linear-gradient(90deg, #F9D423 0%, #E65C00 100%);
+}
+.head{
+
+
+position: absolute;
+width: 123px;
+height: 53px;
+left: 247px;
+top: -52px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 35.34px;
+line-height: 53px;
+/* identical to box height */
+
+
+background: linear-gradient(90deg, #ECE9E6 0%, #FFFFFF 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}
+.head1{
+
+    position: absolute;
+  
+    left: 354px;
+    top: -36px;
+
+}
+.coloum_item{
+    position: absolute;
+    width: 66px;
+    height: 32px;
+    left: 59px;
+    top: 17px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21.34px;
+    line-height: 32px;
+    /* identical to box height */
+    
+    
+    background: linear-gradient(90deg, #ECE9E6 0%, #FFFFFF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    
+  }
+  .coloum_item2{
+    position: absolute;
+    width: 66px;
+    height: 32px;
+    left: 315px;
+    top: 17px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21.34px;
+    line-height: 32px;
+    /* identical to box height */
+    
+    
+    background: linear-gradient(90deg, #ECE9E6 0%, #FFFFFF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+
+    
+  }
+  
+  .coloum_item3{
+
+    position: absolute;
+    width: 66px;
+    height: 32px;
+    left: 555px;
+    top: 17px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21.34px;
+    line-height: 32px;
+    /* identical to box height */
+    
+    
+    background: linear-gradient(90deg, #ECE9E6 0%, #FFFFFF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+            
+
+  }
+ .divider{
+
+    display: flex;
+    height: 50px;
+ }

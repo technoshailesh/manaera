@@ -1,0 +1,145 @@
+.project_container{
+
+    position: relative;
+    height: 580px;
+    width: 1117px;
+    /* left: 6px;
+    top: -19px; */
+    border-radius: 0px;
+   display: flex;
+    margin-left:15rem;
+    margin-top: 180px;
+    display: flex;
+    background: linear-gradient(90deg, #141E30 0%, #243B55 100%);
+  
+
+
+}
+.sidebar{
+
+    position: absolute;
+    width: 50px;
+    height: 25px;
+    left: 66px;
+    top: 10px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.3366px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #8B8C91;
+
+}
+
+
+.sidebar_divider{
+
+   position: absolute;
+   
+width: 245px;
+height: 1px;
+left: 118px;
+top: 170px;
+
+background: #FFFFFF;
+transform: rotate(-90deg);
+
+}
+.sidebar_part{
+
+    position: absolute;
+    width: 150px;
+    height: 25px;
+    left: -26px;
+    
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.3366px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #efefef;
+
+}
+ul{
+   list-style: none;
+    
+}
+.Link{
+    text-decoration: none;
+    display: flex;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.3366px;
+    line-height: 25px;
+    /* identical to box height */
+    
+
+
+
+color: #8B8C91;
+padding:1.5rem;
+    
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  .list>img{
+
+    position: absolute;
+    left: 2.17%;
+    right: 95.91%;
+   
+    
+   
+
+  } 
+    
+  
+  .Link:hover{
+    box-sizing: border-box;
+    font-size: larger;
+    left: -3.3%;
+    right: 85.24%;
+    top: 27.79%;
+    bottom: 65.01%;
+    
+    background: linear-gradient(269.74deg, rgba(255, 255, 255, 0.21) -254.09%, rgba(255, 255, 255, 0) 99.84%);
+    border: 1px solid #FFFFFF;
+    border-radius: 16.3366px;
+    color: #FFFFFF;
+  }
+  .Link:active{
+    box-sizing: border-box;
+    font-size: larger;
+    left: -3.3%;
+    right: 85.24%;
+    top: 27.79%;
+    bottom: 65.01%;
+    
+    background: linear-gradient(269.74deg, rgba(255, 255, 255, 0.21) -254.09%, rgba(255, 255, 255, 0) 99.84%);
+    border: 1px solid #FFFFFF;
+    border-radius: 16.3366px;
+    color: #FFFFFF;
+  }
+.project_page{
+    
+
+position: absolute;
+left: 29.53%;
+right: 9.98%;
+top: 15.75%;
+bottom: 9.14%;
+
+}
